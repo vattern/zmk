@@ -7,6 +7,6 @@ config BOARD_CHOCKEA_LEFT
 	bool "chockea_left"
 	depends on SOC_NRF52840_QIAA
 
-config BOARD_CHOCKEA_ZEN_RIGHT
+config BOARD_CHOCKEA_RIGHT
 	bool "chockea_right"
 	depends on SOC_NRF52840_QIAA
